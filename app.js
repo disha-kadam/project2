@@ -1,1 +1,3 @@
-//add new feature
+
+    let name = "John Doe";
+    const age = 30;
